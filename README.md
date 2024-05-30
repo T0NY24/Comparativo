@@ -1,6 +1,6 @@
 # Comparativo
 Análisis Comparativo de Algoritmos utilizando ARBOLES Y DICCIONARIOS
-# Sistema de Reserva de Aulas
+# Sistema de Reserva de Aulas utilizando DICCIONAROS
 ### Importaciones y Diccionario de Aulas
 ```python
 import datetime
