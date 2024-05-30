@@ -100,7 +100,7 @@ while True:
   - `elif opcion == '3'`: Imprime un mensaje de despedida y sale del bucle, terminando el programa.
   - `else`: Informa al usuario si la opción no es válida.
 
-# Sistema de Reserva de Aulas Usando Diccionario
+# Sistema de Reserva de Aulas Usando Arbol
 
 Este es un sistema de reserva de aulas implementado en Python utilizando una estructura de datos tipo árbol binario. Permite a los usuarios ver la disponibilidad de las aulas, reservarlas y salir del sistema.
 
